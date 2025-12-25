@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ApexLens AI",
+  "description": "Aprimoramento de imagem de nível profissional com tecnologia Neural Super-Sharpen.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
